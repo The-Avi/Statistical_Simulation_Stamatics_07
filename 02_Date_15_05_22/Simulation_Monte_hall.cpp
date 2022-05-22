@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 string sp=" ";
 #define all(x) x.begin(),x.end()
 #define Time cout <<"\nTime : "<<1000*clock()/CLOCKS_PER_SEC<<"ms\n";
