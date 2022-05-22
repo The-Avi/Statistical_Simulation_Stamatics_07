@@ -14,7 +14,6 @@
 3. The correlation coefficient
 4. Change of variable for Continuous Distribution.
 
-
 <br><br>
 
 ## Mentors
