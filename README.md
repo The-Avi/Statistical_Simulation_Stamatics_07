@@ -6,10 +6,14 @@
 2. Chebyshev's inequality
 3. Characteristic function of a random variable
 4. Moment generating functions 
-
 5. Monte Carlo method in brief
 6. Demo : Monte Hall's Problem simulation using python
 ## Week 03
+1. Conditional Probability
+2. Marginal Distribution
+3. The correlation coefficient
+4. Change of variable for Continuous Distribution.
+
 
 <br><br>
 
