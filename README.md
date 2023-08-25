@@ -14,6 +14,10 @@
 3. The correlation coefficient
 4. Change of variable for Continuous Distribution.
 
+## Week 06
+1. Introduction to TF
+2. Coding a Perceptron
+
 <br><br>
 
 ## Mentors
